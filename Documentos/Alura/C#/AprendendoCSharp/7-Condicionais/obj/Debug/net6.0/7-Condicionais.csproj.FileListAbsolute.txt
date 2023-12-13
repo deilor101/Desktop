@@ -1,0 +1,15 @@
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\bin\Debug\net6.0\7-Condicionais.exe
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\bin\Debug\net6.0\7-Condicionais.deps.json
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\bin\Debug\net6.0\7-Condicionais.runtimeconfig.json
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\bin\Debug\net6.0\7-Condicionais.dll
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\bin\Debug\net6.0\7-Condicionais.pdb
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\7-Condicionais.csproj.AssemblyReference.cache
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\7-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\7-Condicionais.AssemblyInfoInputs.cache
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\7-Condicionais.AssemblyInfo.cs
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\7-Condicionais.dll
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\refint\7-Condicionais.dll
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\7-Condicionais.pdb
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\7-Condicionais.genruntimeconfig.cache
+C:\Users\mateh\Desktop\Documentos\Alura\C#\AprendendoCSharp\7-Condicionais\obj\Debug\net6.0\ref\7-Condicionais.dll
